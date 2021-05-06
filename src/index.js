@@ -63,4 +63,4 @@ client.on("message", async (message) => {
 
 
 
-client.login(token)
+client.login(ODM5OTAwOTc2NzU2MjkzNjYy.YJQYvQ.ByHfdDZN4xpSDgxBWURpmmdjITQ)
